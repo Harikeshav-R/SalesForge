@@ -1,0 +1,7 @@
+[project]
+name = "salesforge"
+version = "0.1.0"
+description = "AI Powered Sales Team"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
